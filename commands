@@ -1,0 +1,25 @@
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~$ mkdir ros
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~$ ls
+cs131  Desktop  Documents  Downloads  file1.sh  file1.sh6  flie.sh  flie.sh.save  leap.sh.save  Music  nano.3729.save  Pictures  Public  ros  snap  state.txt  Templates  Videos
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~$ cd ros
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ ls
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ nano q1.sh
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ nano example.txt
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ sh q1.sh
+example.txt  q1.sh
+Enter the file name : 
+example.txt
+ 4  4 22 example.txt
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ ls
+example.txt  q1.sh
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ nano q2.sh
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ sh q2.sh
+Enter directory name : 
+.
+total 12
+-rw-rw-r-- 1 bmscecse bmscecse 22 Nov 28 11:54 example.txt
+-rw-rw-r-- 1 bmscecse bmscecse 62 Nov 28 11:53 q1.sh
+-rw-rw-r-- 1 bmscecse bmscecse 65 Nov 28 12:02 q2.sh
+bmscecse@bmscecse-HP-Elite-Tower-600-G9-Desktop-PC:~/ros$ S
+
+
